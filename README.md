@@ -1,19 +1,19 @@
-# Exmeal
+Desafio Módulo 04 - Exmeal - Ignite Elixir
 
-To start your Phoenix server:
+Projeto:
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
+Desafio módulo 04 proposto pelo Ignite na trilha de Elixir da Rocketseat, para praticar e fixar o aprendizado criando o projeto Exmeal no Elixir. Tecnologias Usadas:
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+* Elixir
+* Erlang
+* Como Executar:
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+Após clonar o repositório, em um Terminal execute os seguintes comandos:
 
-## Learn more
+* iex -S mix
 
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+* %Exmeal.Meal{}
+
+Importante:
+
+* Você deve possuir um ambiente apto a executar o Elixir.
