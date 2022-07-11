@@ -6,7 +6,9 @@ Desafio módulo 04 proposto pelo Ignite na trilha de Elixir da Rocketseat, para 
 
 * Elixir
 * Erlang
-* Como Executar:
+* Phoenix
+
+Como Executar:
 
 Após clonar o repositório, em um Terminal execute os seguintes comandos:
 
